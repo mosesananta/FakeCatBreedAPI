@@ -1,0 +1,26 @@
+{
+    "predict_breed": [
+        {
+            "breed": "Chartreux",
+            "probability": 0.63
+        },
+        {
+            "breed": "Domestic",
+            "probability": 0.2
+        },
+        {
+            "breed": "Exotic",
+            "probability": 0.15
+        },
+        {
+            "breed": "Korat",
+            "probability": 0.11
+        }
+    ],
+    "detect_cats":[
+        {"cat_image": "https://cdn.pixabay.com/photo/2016/01/20/13/05/cat-1151519__340.jpg"},
+        {"cat_image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg"},
+        {"cat_image": "https://vetwork.co/galaxy/wp-content/uploads/Ragdoll-cat-2.jpg"}
+    ]
+
+}
