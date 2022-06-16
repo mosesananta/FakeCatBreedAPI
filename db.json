@@ -1,26 +1,40 @@
 {
     "predict_breed": [
         {
+            
+            "id": 1,
             "breed": "Chartreux",
             "probability": 0.63
         },
         {
+            "id": 2,
             "breed": "Domestic",
             "probability": 0.2
         },
         {
+            "id": 3,
             "breed": "Exotic",
             "probability": 0.15
         },
         {
+            "id": 4,
             "breed": "Korat",
             "probability": 0.11
         }
     ],
     "detect_cats":[
-        {"cat_image": "https://cdn.pixabay.com/photo/2016/01/20/13/05/cat-1151519__340.jpg"},
-        {"cat_image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg"},
-        {"cat_image": "https://vetwork.co/galaxy/wp-content/uploads/Ragdoll-cat-2.jpg"}
+        {  
+            "id": 1,
+            "cat_image": "https://cdn.pixabay.com/photo/2016/01/20/13/05/cat-1151519__340.jpg"
+        },
+        {
+            "id": 2,
+            "cat_image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg"
+        },
+        {
+            "id":3,
+            "cat_image": "https://vetwork.co/galaxy/wp-content/uploads/Ragdoll-cat-2.jpg"
+        }
     ]
 
 }
